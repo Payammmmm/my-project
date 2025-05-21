@@ -1,8 +1,8 @@
+#this is my first project simple calculator
 print("if you write -1 exit program")
 num2=0
 num1=0
 while num1 != -1:
-      
       num1=int(input('enter number one: '))
       if num1== -1:
            print('exiting program ...')
